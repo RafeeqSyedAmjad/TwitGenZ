@@ -4,7 +4,7 @@ import dynamic from 'next/dynamic';
 import { db, storage } from "../firebase";
 import {
     addDoc,
-    collection,
+    collection, 
     doc,
     serverTimestamp,
     updateDoc,
