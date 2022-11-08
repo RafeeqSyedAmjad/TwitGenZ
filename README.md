@@ -10,11 +10,12 @@ I am introducing TwitGenZ a social media site dedicated to connecting Genz and e
 
 ## Screenshots
 
-![App Screenshot](https://www.awesomescreenshot.com/image/34197009?key=974ece801c520f1ed98b13a0edb00ef5)
+![Thumbnail](https://user-images.githubusercontent.com/64955243/200680675-13c8e283-7e9b-4dbf-b671-1215823681ae.png)
+
 
 Demo🚀
 
-https://www.awesomescreenshot.com/video/12329930?key=6ccec0b8aff1b85b329d7b80859e2b24
+https://user-images.githubusercontent.com/64955243/200680500-793c3b04-e31f-4d06-8f66-fb00def065ee.mp4
 
 ## Features
 
