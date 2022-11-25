@@ -32,6 +32,7 @@ https://user-images.githubusercontent.com/64955243/200680500-793c3b04-e31f-4d06-
 - Tweet / post update
 - Post page
 - Comment or tweet ur reply
+- Mobile Responsive
 
 
 ##👨‍💻 Built with
