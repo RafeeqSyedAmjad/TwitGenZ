@@ -42,12 +42,17 @@ https://user-images.githubusercontent.com/64955243/200680500-793c3b04-e31f-4d06-
 
 ## Screenshots
 
-###Mobile 
+###Mobile view
 
-|HomePage| commentsmodal | Postpage |
-|--------|-------------|-----------|-----------|---------|
-|![sanyam-spotify netlify app_](https://user-images.githubusercontent.com/107163858/201981124-d153d50c-664d-403b-95c7-cf059183082d.png)|![sanyam-spotify netlify app_ (1)](https://user-images.githubusercontent.com/107163858/201979826-8a372816-5bec-4c65-a13a-d057a7a7b824.png)|![sanyam-spotify netlify app_ (2)](https://user-images.githubusercontent.com/107163858/201979841-6b1836e4-4baf-4af9-a87c-107b0ea86d83.png)|![sanyam-spotify netlify app_ (3)](https://user-images.githubusercontent.com/107163858/201979849-f285c209-fc52-412d-a330-6ccc56471afe.png)|![sanyam-spotify netlify app_ (4)](https://user-images.githubusercontent.com/107163858/201979853-d6adac26-940e-4eb0-9ee7-e5365e894ac9.png)|
+HomePage 
 
+commentsmodal  
+
+
+Postpage 
+
+
+###Desktop view
 ##Home page
 ![Thumbnail](https://user-images.githubusercontent.com/64955243/200680675-13c8e283-7e9b-4dbf-b671-1215823681ae.png)
 
