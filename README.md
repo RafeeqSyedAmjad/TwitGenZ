@@ -12,7 +12,7 @@ I am introducing TwitGenZ a social media site dedicated to connecting Genz and e
 
 - As Genz dislikes special characters (!, ? %), there will be no special characters (!, ? %)
 - As Genz dislikes long texts, there will be limited words
-- use of emojis [No cap 🧢 ]
+- use of emojis
 - Feed Page
 - Like/Dislike
 - Authentication
